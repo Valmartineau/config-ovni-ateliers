@@ -1,0 +1,13 @@
+Config OVNI — créations des ateliers
+Dépôt tenu par Valentin Martineau (OVNI Conseil).
+
+Chaque dossier ateliers/<date>/<participant>/ appartient à son auteur, nommé dans la
+FICHE.md de chaque projet. Les auteurs placent leur contribution sous licence
+Creative Commons Attribution 4.0 International (CC BY 4.0), sauf mention contraire
+écrite dans la fiche du projet.
+
+Pour citer une création : le nom de l'auteur tel qu'il figure dans la fiche, le nom du
+projet, et un lien vers ce dépôt.
+
+Résumé lisible : https://creativecommons.org/licenses/by/4.0/deed.fr
+Texte officiel de la licence : fichier LICENSE.
